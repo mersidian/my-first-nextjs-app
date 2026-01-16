@@ -19,6 +19,7 @@ export default function RootLayout({ children }) {
           <Link href="/about">About</Link>
           <Link href="/blog/my-awesome-post">Blog</Link>
           <Link href="/counter">Counter</Link>
+          <Link href="/todo">Task Master</Link>
         </nav>
         {/* --- END OF SHARED NAVBAR --- */}
 
