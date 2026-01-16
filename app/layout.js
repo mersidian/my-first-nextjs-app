@@ -20,6 +20,7 @@ export default function RootLayout({ children }) {
           <Link href="/blog/my-awesome-post">Blog</Link>
           <Link href="/counter">Counter</Link>
           <Link href="/todo">Task Master</Link>
+          <Link href="/pokemon">Pokemon</Link>
         </nav>
         {/* --- END OF SHARED NAVBAR --- */}
 
